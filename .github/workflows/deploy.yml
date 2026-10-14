@@ -16,7 +16,7 @@ permissions:
   contents: read
 
 env:
-  SITE_NAME: "CHANGE-ME"       # your website name / Linux username
+  SITE_NAME: "abc"       # your website name / Linux username
   DEPLOY_PORT: "2280"
   SOURCE_DIR: "public/"
 
